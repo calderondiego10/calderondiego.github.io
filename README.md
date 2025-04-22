@@ -1,5 +1,4 @@
-# calderondiego.github.io
-Personal Blog Github Pages
+# Personal Blog
 
 ES
 😄 Mi nombre es Diego y actualmente me encuentro estudiando de manera autodidacta ciberseguridad, Forense Digital, Red Team y Blue Team. Mis otros gustos son un poco los videojuegos, la Geopolitica 🌐, Ciberinteligencia 🕵️ y las Criptomonedas.
